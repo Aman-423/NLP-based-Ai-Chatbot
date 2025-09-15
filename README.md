@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# 🧠 Text Simplification Chatbot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An AI-powered chatbot that simplifies complex text into easier,
+student-friendly language.\
+Designed to help **primary-level learners** understand academic content
+better using **NLP techniques**.
 
-## Available Scripts
+------------------------------------------------------------------------
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+-   ✨ Simplifies complex text while retaining meaning\
+-   🎓 Tailored for primary education levels\
+-   💬 Interactive chatbot interface\
+-   ⚡ Built with **React + TailwindCSS**\
+-   🤖 Powered by NLP-based text simplification
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+------------------------------------------------------------------------
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📂 Project Structure
 
-### `npm test`
+    text-simplification-chatbot/
+    │── src/               # React source code
+    │   ├── components/    # UI components
+    │   ├── App.jsx        # Main app component
+    │   ├── index.js       # Entry point
+    │── public/            # Static files
+    │── package.json       # Dependencies & scripts
+    │── tailwind.config.js # TailwindCSS config
+    │── postcss.config.js  # PostCSS config
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+------------------------------------------------------------------------
 
-### `npm run build`
+## 🛠️ Installation & Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1.  Clone this repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    ``` bash
+    git clone https://github.com/your-username/text-simplification-chatbot.git
+    cd text-simplification-chatbot
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2.  Install dependencies:
 
-### `npm run eject`
+    ``` bash
+    npm install
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3.  Run development server:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    ``` bash
+    npm run dev
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4.  Build for production:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    ``` bash
+    npm run build
+    ```
 
-## Learn More
+------------------------------------------------------------------------
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📖 Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1.  Enter complex academic text in the chatbot.\
+2.  The AI will return a **simplified version**.\
+3.  Ideal for **students, teachers, and researchers**.
 
-### Code Splitting
+------------------------------------------------------------------------
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🔮 Future Improvements
 
-### Analyzing the Bundle Size
+-   ✅ Add speech-to-text and text-to-speech\
+-   ✅ Multi-language simplification support\
+-   ✅ Deploy on web & mobile
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+------------------------------------------------------------------------
 
-### Making a Progressive Web App
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Pull requests are welcome! For major changes, please open an issue first
+to discuss your ideas.
 
-### Advanced Configuration
+------------------------------------------------------------------------
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📜 License
 
-### Deployment
+This project is licensed under the **MIT License**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+------------------------------------------------------------------------
 
-### `npm run build` fails to minify
+## 👨‍💻 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-   **Aman Kumar Pal**\
+    📧 Contact: \[your-email@example.com\]\
+    🌐 GitHub: [your-username](https://github.com/your-username)
