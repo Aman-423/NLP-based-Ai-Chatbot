@@ -92,5 +92,5 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 -   **Aman Kumar Pal**\
-    📧 Contact: \[your-email@example.com\]\
-    🌐 GitHub: [your-username](https://github.com/your-username)
+    📧 Contact: \[your-akp.98131@gmail.com\]\
+    🌐 GitHub: [your-username](https://github.com/your-aman-423)
