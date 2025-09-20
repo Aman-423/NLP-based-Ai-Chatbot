@@ -93,4 +93,4 @@ This project is licensed under the **MIT License**.
 
 -   **Aman Kumar Pal**\
     📧 Contact: \[akp.98131@gmail.com\]\
-    🌐 GitHub: [your-username](https://github.com/aman-423)
+    🌐 GitHub: [aman-423](https://github.com/aman-423)
